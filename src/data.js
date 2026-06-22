@@ -4,7 +4,7 @@ export const profile = {
   tagline: "Building practical, full-stack solutions with the MERN stack — from campus tools to healthcare systems.",
   email: "iswaryas504@gmail.com",
   phone: "+91 8190911829",
-  github: "https://github.com/iswarya-s",
+  github: "https://github.com/ISWARYA107",
   location: "Perundurai, Tamil Nadu",
   summary:
     "3rd-year B.E. Computer Science and Engineering student with strong skills in MERN Stack development, database management, and modern web technologies. Experienced in building and deploying full-stack web applications using React.js, Node.js, Express.js, and MongoDB Atlas. Proficient in REST API development, Git/GitHub version control, and responsive web design.",
